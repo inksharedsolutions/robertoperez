@@ -9,9 +9,9 @@ const Footer = ()=>{
         <>  
             <footer className="footer-section">
                 <div className="container-gt" id="footer-info">
-                    <h1>Roberto Perez</h1>
+                    <h1>Roberto Pérez</h1>
                     <p className="param-footer">
-                        Roberto Perez loves to hear from readers. You can reach him via email. 
+                        Roberto Pérez loves to hear from readers. You can reach him via email. 
                         Feel free to send questions about writing, his works, interviews 
                         and other publicity matters.
                     </p> 

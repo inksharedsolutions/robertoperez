@@ -16,7 +16,7 @@ const IndexPage = (props) => (
       <Nav pathExt={props.path}/>
       <Banner/>
       <UpperMain/>
-      <BookSection/>
+      {/* <BookSection/> */}
       {/* <Testimonial/> */}
       <MidMain/>
       <Newsletter/>

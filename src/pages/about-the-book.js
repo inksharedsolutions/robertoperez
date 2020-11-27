@@ -37,8 +37,8 @@ const ATB = (props)=>{
 
                             <BookInfo
                                 data={{
-                                    title:`One Full American Life of a First`,
-                                    spanTitle: 'Generation Immigrant of Mexican Descent',
+                                    title:`One Full American Life of a First Generation Immigrant of Mexican Descent`,
+                                    spanTitle: '',
                                     imgSrc: Book1,
                                     id:'the_gifted_one',
                                     content:
