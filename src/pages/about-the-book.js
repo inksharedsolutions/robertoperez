@@ -50,7 +50,7 @@ const ATB = (props)=>{
                                     `,
                                     
                                     ebooks:{
-                                        stratton : 'https://www.stratton-press.com/books/one-full-american-life-of-a-first-generation-immigrant-of-mexican-descent/',
+                                        stratton : '',
                                         barnes: 'https://www.barnesandnoble.com/w/one-full-american-life-of-a-first-generation-immigrant-of-mexican-descent-roberto-p-rez/1136857032?ean=9781643459806',
                                         amazon :'https://www.amazon.com/One-Full-American-Life-First-ebook/dp/B0873Y3J4L/ref=sr_1_1?dchild=1&keywords=9781643459806&qid=1588018269&sr=8-1', 
                                     },
@@ -61,6 +61,7 @@ const ATB = (props)=>{
                                     }
                                 }}
                             />
+			    {/*Stratton Link: https://www.stratton-press.com/books/one-full-american-life-of-a-first-generation-immigrant-of-mexican-descent/*/}
                             <div className="commentSection" >
                                 <DiscussionEmbed {...disqusConfig} />
                             </div>
